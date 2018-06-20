@@ -1,9 +1,11 @@
-# React-Static - Blank Example
+# @splish-me/react-static-starter
 
-This example is a blank version of react-static. It includes::
-- Babel
+This `react-static` template includes:
+
+- TypeScript & Babel
+- Emotion
 - CSS imports
 - Image imports
 - File imports
 
-To get started, run `react-static create` and use the `blank` template.
+To get started, run `react-static create --template=https://github.com/splish-me/react-static-starter.git`.

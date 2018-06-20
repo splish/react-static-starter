@@ -28,5 +28,6 @@
     "babel-loader": "^8.0.0-beta.3",
     "babel-plugin-emotion": "^9.2.0",
     "serve": "^9.1.0"
-  }
+  },
+  "private": true
 }
